@@ -46,7 +46,7 @@ pip3 install -r requirements.txt
 ```
 - __pip__
 ```
-pip install WEEK-TOOL
+pip install WEEK TOOL
 ```
 
 <br>
