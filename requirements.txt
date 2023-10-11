@@ -1,0 +1,3 @@
+psutil
+bs4
+phonenumbers

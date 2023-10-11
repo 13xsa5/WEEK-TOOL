@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+
+[project]
+name = "WEEK TOOL"
+version = "3.1.1"
+description = "`WEEK TOOL` a simple yet powerful osint framework for reconnaissance and information gathering"
+readme = "README.md"
+license = {file = "LICENSE"}
+requires-python = ">=3.7"
+authors = [
+  {name = "s41r4j"}
+]
+maintainers = [
+  {name = "@! pattck//Wakott, ! pattck//comsomolckiy,fx.fx"}
+]
+keywords=['python', 'hacking', 'pentesting', 'WEEK TOOL', 'reverse', 'lookup', 'osint', 'framework', 'tool', '! pattck//Wakott, ! pattck//comsomolckiy,fx.fx']
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
+    "Operating System :: OS Independent",
+    "Environment :: Console",
+    "Development Status :: 5 - Production/Stable"
+]
+dependencies = ['requests', 'prompt_toolkit', 'uuid', 'psutil', 'beautifulsoup4', 'phonenumbers', 'mac-vendor-lookup', 'python-whois', 'dnspython']
+
+
+[project.urls]
+"Homepage" = "https://github.com/SOON"
+"Bug Tracker" = "https://github.com/SOON"
+
+[project.scripts]
+WEEK TOOL = "WEEK TOOL.WEEK TOOL:main"
+
+[project.entry-points."WEEK TOOl"]
+WEEK TOOL = "WEEK TOOL.WEEK TOOL:main"
