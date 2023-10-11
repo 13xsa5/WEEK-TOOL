@@ -42,13 +42,17 @@ An open source infomation grathering & reconnaissance framework!
 ```
 git clone https://github.com/13xsa5/WEEK-TOOL
 cd WEEK-TOOL
-pip3 install -r requirements.txt
+pip3 install -r pyproject.toml
 ```
 - __pip__
 ```
 pip install WEEK TOOL
 ```
-
+- __docker__
+```
+docker pull sinawic/phomber:latest
+docker run --rm -it sinawic/phomber:latest
+```
 <br>
 
 ### Update:
