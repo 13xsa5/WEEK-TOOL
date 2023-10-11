@@ -15,17 +15,17 @@ An open source infomation grathering & reconnaissance framework!
       
 <br>
 
-<h1 align=center>WEEK TOOL: osint framework</h1>
+<h1 align=center>WEEK-TOOL: osint framework</h1>
 
 
 
 <br>
 
-## What is WEEL TOOL?
+## What is WEEL-TOOL?
 
-- `WEEK TOOL` is a one-stop tool for your information gathering and reconnaissance needs
+- `WEEK-TOOL` is a one-stop tool for your information gathering and reconnaissance needs
 - It can help you gather multiple types of information (such as phone numbers, ip addr, whois, etc.) from various publicly available sources about the target
-> Previously, `WEEK TOOL` was a tool used to gather information about a phone number, but now it has been upgraded to a ___framework___ with many _scanners_ available!
+> Previously, `WEEK-TOOL` was a tool used to gather information about a phone number, but now it has been upgraded to a ___framework___ with many _scanners_ available!
 
 
 
@@ -41,39 +41,39 @@ An open source infomation grathering & reconnaissance framework!
 - __git clone__
 ```
 git clone https://github.com/13xsa5/WEEK-TOOL
-cd weektool
+cd WEEK-TOOL
 pip3 install -r requirements.txt
 ```
 - __pip__
 ```
-pip install WEEK TOOL
+pip install WEEK-TOOL
 ```
 
 <br>
 
 ### Update:
-- __git clone__ (assuming you are in the `WEEK TOOL` directory)
+- __git clone__ (assuming you are in the `WEEK-TOOL` directory)
 ```
 git pull
 ```
 
 - __pip__
 ```
-pip install --upgrade WEEK TOOL
+pip install --upgrade WEEK-TOOL
 ```
 
 
 <br>
 
 ### Usage:
-- __git clone__ (assuming you are in the `WEEK TOOL` directory)
+- __git clone__ (assuming you are in the `WEEK-TOOL` directory)
 ```
 python3 weektool.py
 ```
 
 - __pip__
 ```
-WEEL TOOL
+WEEL-TOOL
 ```
 
 - Help menu
@@ -121,7 +121,7 @@ WEEL TOOL
 
 ### NOTES:
 ```
-- `WEEK TOOL` is back with all new features and user interface
+- `WEEK-TOOL` is back with all new features and user interface
 - `v3` has osint tools with no _api key_ requirement
 - ADD: custom-scanner feature; create, distribute and deploy your own scanner
 - Release windows (exe) & linux (lsb) direct executables, no python req.
