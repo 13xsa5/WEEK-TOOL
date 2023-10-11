@@ -59,7 +59,7 @@ git pull
 
 - __pip__
 ```
-pip install --upgrade WEEK-TOOL
+pip install --upgrade WEEK TOOL
 ```
 
 
