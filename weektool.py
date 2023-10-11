@@ -29,12 +29,12 @@
 
 
 # ------------------------ Importing modules ------------------------ #
-import requests      # Default
+import requests      # pip install requests
 import os            # Default
 import sys           # Default
 import random        # Default
 import time          # Default
-import readline      # Default
+import readline      # pip install pyreadline3
 import re            # Default
 import uuid          # Default
 import socket        # Default
@@ -843,7 +843,7 @@ def logo():
     printit('─ ▒█░░▒█ ▒█▀▀▀ ▒█▀▀▀ ▒█░▄▀ 　 ▀▀█▀▀ ▒█▀▀▀█ ▒█▀▀▀█ ▒█░░░   ─', center=' ', coledt=[1, 49, random.choice([91, 92, 93, 94, 95, 96, 97])], space_up=True)
     printit('─ ▒█▒█▒█ ▒█▀▀▀ ▒█▀▀▀ ▒█▀▄░ 　 ░▒█░░ ▒█░░▒█ ▒█░░▒█ ▒█░░░ ─', center=' ', coledt=[1, 49, random.choice([91, 92, 93, 94, 95, 96, 97])])
     printit('─ ▒█▄▀▄█ ▒█▄▄▄ ▒█▄▄▄ ▒█░▒█ 　 ░▒█░░ ▒█▄▄▄█ ▒█▄▄▄█ ▒█▄▄█─', center=' ', coledt=[1, 49, random.choice([91, 92, 93, 94, 95, 96, 97])], space_down=True)
-    printit('OSINT-FRAMEWORK                   @! pattck//Wakott, ! pattck//comsomolckiy,fx.fx   ', center=' ', coledt=[1, 49, random.choice([91, 92, 93, 94, 95, 96, 97])], space_down=True)
+    printit('OSINT-FRAMEWORK  BETA VERSION 1.0            @! pattck//Wakott, ! pattck//comsomolckiy,fx.fx   ', center=' ', coledt=[1, 49, random.choice([91, 92, 93, 94, 95, 96, 97])], space_down=True)
 
 def completer(text, state):
     commands = avaliable_commands
