@@ -11,7 +11,7 @@ readme = "README.md"
 license = {file = "LICENSE"}
 requires-python = ">=3.7"
 authors = [
-  {name = "s41r4j"}
+  {name = "@! pattck//Wakott, ! pattck//comsomolckiy,fx.fx"}
 ]
 maintainers = [
   {name = "@! pattck//Wakott, ! pattck//comsomolckiy,fx.fx"}
