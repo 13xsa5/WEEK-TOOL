@@ -66,6 +66,11 @@ git pull
 pip install --upgrade WEEK TOOL
 ```
 
+- __docker__
+```
+docker pull sinawic/phomber:latest
+```
+
 
 <br>
 
