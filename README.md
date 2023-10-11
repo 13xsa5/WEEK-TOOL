@@ -85,6 +85,11 @@ python3 weektool.py
 WEEL-TOOL
 ```
 
+- __docker__
+```
+WEEL-TOOL
+```
+
 - Help menu
 ```
     ┌────────────────────────────────────────────────────┐
