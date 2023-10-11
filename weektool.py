@@ -7,7 +7,7 @@
 # [desc]   : An open source infomation grathering & reconnaissance framework!  #
 # [dev]    : @! pattck//Wakott, ! pattck//comsomolckiy,fx.fx                                                            #
 # [license]: GNU GPLv3                                                         #
-# [github] : https://github.com/SOON                                
+# [github] : https://github.com/13xsa5/WEEK-TOOL                                
 # [pypi]   :                                
 #                                                                              #
 #==============================================================================#
@@ -779,7 +779,7 @@ def save_output(prv_cmd):
     
         header = f'''
     \33[1;49;93m[@] Osint framework: \33[1;49;96mWEEKTOOL
-    \33[1;49;93m[@] Github: \33[1;49;96mhttps://github.com/SOON
+    \33[1;49;93m[@] Github: \33[1;49;96mhttps://github.com/13xsa5/WEEK-TOOL
 
     \33[1;49;93m[#] Output File Name: \33[1;49;97m{filename}
     \33[1;49;93m[#] Output File Path: \33[1;49;97m{path}
@@ -927,7 +927,7 @@ def control_center():
     | \33[1;49;97mVersion\033[0m       | {ver} |
     | \33[1;49;97mType\033[0m          | \33[1;49;96mOSINT Framework\033[0m                    |
     | \33[1;49;97mDeveloper\033[0m     | \33[1;49;96ms41r4j\033[0m                             |
-    | \33[1;49;97mGithub\033[0m        | \33[1;49;96mhttps://github.com/SOON033[0m  |
+    | \33[1;49;97mGithub\033[0m        | \33[1;49;96mhttps://github.com/13xsa5/WEEK-TOOL033[0m  |
     └────────────────────────────────────────────────────┘
     '''
 
@@ -1336,7 +1336,7 @@ def main():
         print()
         if not silent_mode:
             printit(f'[!] An error occured: {e}', coledt=[1, 49, 91], space_up=True)
-            printit(f'[i] Please report this error/bug/issue at: https://github.com/SOON', coledt=[1, 49, 93], space_down=True)
+            printit(f'[i] Please report this error/bug/issue at: https://github.com/13xsa5/WEEK-TOOL', coledt=[1, 49, 93], space_down=True)
             printit('[#] Terminating `WEEK TOOL` framework...', coledt=[1, 49, random.choice([91, 93])], space_down=True, line_down=True, line_up=True, space_up=True)
             exit()
         else: print()

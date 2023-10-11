@@ -28,8 +28,7 @@ dependencies = ['requests', 'prompt_toolkit', 'uuid', 'psutil', 'beautifulsoup4'
 
 
 [project.urls]
-"Homepage" = "https://github.com/SOON"
-"Bug Tracker" = "https://github.com/SOON"
+"Homepage" = "https://github.com/13xsa5/WEEK-TOOL"
 
 [project.scripts]
 WEEK TOOL = "WEEK TOOL.WEEK TOOL:main"
