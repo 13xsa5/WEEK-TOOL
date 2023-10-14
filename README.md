@@ -42,7 +42,7 @@ An open source infomation grathering & reconnaissance framework!
 ```
 git clone https://github.com/13xsa5/WEEK-TOOL
 cd WEEK-TOOL
-pip3 install -r requirements.txt
+pip3 install -r pyproject.toml
 ```
 - __pip__
 ```
